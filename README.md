@@ -23,31 +23,26 @@ We aim to extract meaningful insights regarding:
 
 ## Repository Structure
 
-<details>
-<summary><strong>Project Structure</strong></summary>
+```bash
+Project Structure:
 
-Data-Science-Job-Market-EDA/
-│
-├── EDA.ipynb # Main notebook with full exploratory data analysis
-├── datasets/ # Source dataset(s) used for analysis
-│ └── data_jobs.csv
-├── README.md # Project documentation (you are here)
-└── requirements.txt # Required Python packages
-
-</details>
+  Data-Science-Job-Market-EDA/
+  │
+  ├── EDA.ipynb # Main notebook with full exploratory data analysis
+  ├── datasets/ # Source dataset(s) used for analysis
+  │ └── data_jobs.csv
+  ├── README.md # Project documentation (you are here)
+  └── requirements.txt # Required Python packages
+```
 
 ## Key Insights
 Top Roles: Data Scientist and Analyst roles dominate the job listings.
-
-Remote Work: Hybrid and remote jobs have surged post-COVID.
 
 Salaries: Highest salaries are offered in San Francisco, New York, and remote roles.
 
 Skills in Demand: Python, SQL, AWS, and Machine Learning top the skills chart.
 
-Experience Levels: Most roles are targeted at mid-level professionals (2–5 years).
-
-**Getting Started**
+## Getting Started
 Prerequisites
 Python 3.10+
 
