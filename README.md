@@ -2,10 +2,6 @@
 
 This repository presents an Exploratory Data Analysis (EDA) of the current **Data Science job market**, with a focus on uncovering trends in roles, salaries, locations, skills, and employment types.
 
-![Data Science](https://img.shields.io/badge/EDA-Data--Science-blue)  
-![Python](https://img.shields.io/badge/Python-3.10%2B-yellow)  
-![License](https://img.shields.io/badge/license-MIT-green)
-
 ---
 
 ## Project Overview
@@ -28,7 +24,7 @@ We aim to extract meaningful insights regarding:
 ## Repository Structure
 
 <details>
-<summary><strong>Click to expand</strong></summary>
+<summary><strong>Project Structure</strong></summary>
 
 Data-Science-Job-Market-EDA/
 │
